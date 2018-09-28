@@ -1,0 +1,24 @@
+.header-text{
+	text-align: center;
+}
+.button__host{
+	margin-bottom: 20px;
+	border: 3px;
+	border-radius: 5px;
+	background-color: #f05a22;
+	color: #fff;
+	padding: 22px 43px;
+	font-weight: 700;
+	line-height: 27px;
+	text-align: center;
+	margin-left: 440px;
+}
+.header-text__title{
+	margin-bottom: 15px;
+	font-size: 48px;
+	font-weight: 700;
+}
+.header-text__subtitle{
+	font-size: 30px;
+	font-weight: 400;
+	margin-bottom: 35px;

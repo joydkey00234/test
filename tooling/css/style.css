@@ -1,0 +1,50 @@
+body {
+	font-family: 'Proxima Nova', sans-serif;
+	background-color: #f9f9f9;
+}
+.title {
+	margin-top: 100px;
+	margin-bottom: 125px;
+	text-align: center;
+	color: #000000;
+	font-size: 36px;
+	font-weight: 400;
+}
+.container	{
+	margin: auto;
+	text-align: center;
+	display: flex;
+	max-width: 1140px;
+	justify-content: space-around;
+}
+.products__text {
+	margin-bottom: 18px;
+	font-size: 16px;
+	font-weight: 300;
+}
+.products__price {
+	font-size: 18px;
+	font-weight: 900;
+	margin-bottom: 24px;
+}
+button {
+	cursor: pointer;
+}
+button:focus {
+ outline: none;
+	background-color: #f9f9f9;
+}
+.button {
+ background-color: transparent;
+	color: #23bac1;
+	width: 202px;
+	height: 57px;
+	border: 2px solid #23bac1;
+	font-size: 13px;
+	font-weight: 900;
+	margin-bottom: 100px;
+}
+img {
+	min-height: 215px;
+	margin-bottom: 24px;
+}

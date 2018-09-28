@@ -1,0 +1,26 @@
+.display-4 {
+	margin-top: 40px;
+}
+.fatures {
+	margin-top: 30px;
+}
+.card-text {
+	margin: 0;
+}
+.btn-block {
+	margin-top: 20px;
+}
+.table {
+	margin-top: 30px;
+}
+.card {
+	margin-top: 30px;
+}
+.basement {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.basement__text {
+	margin: 0;
+	margin-bottom: 5px;
+}

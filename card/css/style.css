@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'My Font';
+  src: url('../myfont.woff2') format('woff2'),
+       url('../myfont.woff') format('woff');
+  font-weight: 400;
+}
+
+
+body{
+	background-color: #F5F5F5;
+}
+.box{
+	width:75%;
+	width: 1010px;
+	height: 503px;
+	border: 1px solid #d7d7d7;
+	background-color: #ffffff;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%)
+
+
+    
+}
+.button:focus {
+	outline: none;
+}
+.text{
+	color: #2f2f2f;
+	font-family: "Arial - Bold MT";
+	font-size: 23px;
+	font-weight: 400;
+	margin-left: 523px;
+	margin-top:-350px ;
+	
+}
+.text1{
+	width: 393px;
+	height: 50px;
+	color: #2f2f2f;
+	font-family: "Arial MT";
+	font-size: 15px;
+	font-weight: 400;
+	margin-left: 524px;
+	margin-top: 30px;
+
+}
+
+.button{
+	display: inline-block;
+	width: 252px;
+	height: 50px;
+	background-color: #ec744a;
+	color: white;
+	margin-left: 526px;
+	margin-bottom: 81px;
+	margin-top: 56px;
+	border: 1px solid transparent;
+}
+.button:hover {
+	background-color: #FF4500;
+}
+.img{
+	max-width:100%;
+	height:auto;
+	margin-top: 56px;
+	margin-left: 48px;
+}
+.price{
+	width: 35px;
+	height: 14px;
+	color: #2f2f2f;
+	font-family: "Arial MT";
+	font-size: 15px;
+	font-weight: 400;
+	margin-left: 524px;
+	margin-top: 55px;
+}
+.price1{
+	width: 107px;
+	height: 28px;
+	color: #2f2f2f;
+	font-family: "Arial MT";
+	font-size: 30px;
+	font-weight: 400;
+	margin-left: 526px;
+	margin-top: 23px;
+}
